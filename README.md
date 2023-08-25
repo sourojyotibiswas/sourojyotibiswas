@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Learning React, Java Script Applications**
 
-- 🌱 I’m currently learning **MEARN stack**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **Web development**
 
