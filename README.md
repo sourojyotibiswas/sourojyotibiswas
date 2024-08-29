@@ -15,9 +15,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Bsouro911&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bsouro911&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bsouro911&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sourojyotibiswas&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sourojyotibiswas&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourojyotibiswas&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
