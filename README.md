@@ -21,7 +21,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Bsouro911&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sourojyotibiswas&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
@@ -33,4 +33,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Bsouro911&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sourojyotibiswas&icon=2&color=3)](https://visitcount.itsvg.in)
