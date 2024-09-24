@@ -27,10 +27,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sourojyotibiswas&icon=2&color=3)](https://visitcount.itsvg.in)
