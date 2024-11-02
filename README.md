@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Learning **Next.JS, TypeScript**<br><br>🌱 I’m currently learning **MERN stack**<br><br>👯 I’m looking to collaborate on **Web development**<br><br>💬 Ask me about **DSA, WEB DEVELOPMENT, LINUX ADMINISTRATION**<br><br>📫 How to reach me **biswassourojyoti@gmail.com**
+🔭 I’m currently working on Learning **DSA and Fullstack Projects**<br><br>🌱 I’m currently learning **Machine Learning**<br><br>👯 I’m looking to collaborate on **Web development Projects**<br><br>💬 Ask me about **DSA, WEB DEVELOPMENT, LINUX ADMINISTRATION, Machine Learning and AI**<br><br>📫 How to reach me **biswassourojyoti@gmail.com**
 
 ## 🌐 Socials:
 
