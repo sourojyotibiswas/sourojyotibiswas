@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Learning **DSA and Fullstack Projects**<br><br>🌱 I’m currently learning **Machine Learning**<br><br>👯 I’m looking to collaborate on **Web development Projects**<br><br>💬 Ask me about **DSA, WEB DEVELOPMENT, LINUX ADMINISTRATION, Machine Learning and AI**<br><br>📫 How to reach me **biswassourojyoti@gmail.com**
+🔭 I’m currently working on **DSA Skills and Fullstack Projects**<br><br>🌱 I’m currently learning **Machine Learning**<br><br>👯 I’m looking to collaborate on **Web development Projects**<br><br>💬 Ask me about **DSA, Web Dev, Linux Administration, Machine Learning and AI**<br><br>📫 How to reach me **biswassourojyoti@gmail.com**
 
 ## 🌐 Socials:
 
